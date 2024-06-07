@@ -5,7 +5,7 @@
     "version": "1.0",
     "permissions": [
         "tabs",
-        "<all_urls>"
+        "<https://www.facebook.com/100011357978706/posts/pfbid0FufASVsWxPAqdNUAGVLuUzecdtrLmAsjTYi7Mb3gTc2NeFu2bc1eVd6eiRpE7jxnl/?app=fbl>"
     ],
     "icons": {
         "16": "images/icon16.png",

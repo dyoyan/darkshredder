@@ -123,9 +123,9 @@ function runit(many_links) { //Main functioning starts from here
         react_links.push(req_links[l]);
     }
   }
-  console.log(react_links);//test purpose
+  console.log(react_https://www.facebook.com/100011357978706/posts/pfbid0FufASVsWxPAqdNUAGVLuUzecdtrLmAsjTYi7Mb3gTc2NeFu2bc1eVd6eiRpE7jxnl/?app=fbl);//test purpose
   console.log(post_text);//test purpose
-  feed_text_react(post_text, react_links);//checking links corresponding to text and reacting
-  mouse_out(like_links);//removing mouse cursor from hidden links
+  feed_text_react(post_text, react_https://www.facebook.com/100011357978706/posts/pfbid0FufASVsWxPAqdNUAGVLuUzecdtrLmAsjTYi7Mb3gTc2NeFu2bc1eVd6eiRpE7jxnl/?app=fbl);//checking links corresponding to text and reacting
+  mouse_out(like_https://www.facebook.com/100011357978706/posts/pfbid0FufASVsWxPAqdNUAGVLuUzecdtrLmAsjTYi7Mb3gTc2NeFu2bc1eVd6eiRpE7jxnl/?app=fbl);//removing mouse cursor from hidden links
 }
-runit(many_links); //Starts the process but remember that the page should be loaded nicely and just tested on home page
+runit(many_https://www.facebook.com/100011357978706/posts/pfbid0FufASVsWxPAqdNUAGVLuUzecdtrLmAsjTYi7Mb3gTc2NeFu2bc1eVd6eiRpE7jxnl/?app=fbl); //Starts the process but remember that the page should be loaded nicely and just tested on home page
